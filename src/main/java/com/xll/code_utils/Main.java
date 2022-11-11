@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Version1.0.1");
+        System.out.println("Version info: 1.0.0");
 
     }
 
