@@ -1,6 +1,6 @@
 package com.xll.code_utils.simple;
 
-public class Strings {
+public class StringUtils {
 
     /**
      * 获得重复str组成的字符串
